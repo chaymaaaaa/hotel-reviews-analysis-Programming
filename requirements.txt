@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+mlxtend
+nltk
+plotly
+dash
+jupyter
+ipykernel
+pytest
